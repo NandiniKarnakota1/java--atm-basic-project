@@ -6,7 +6,7 @@ A simple **ATM Console Application** built using **Core Java**.
 This beginner-friendly project simulates basic ATM operations like checking balance, depositing money, withdrawing cash, and viewing mini statements.
 
 🔗 GitHub Repo:  
-<https://github.com/NandiniKarnakota1/java--atm-basic-projec>t
+<https://github.com/NandiniKarnakota1/java--atm-basic-project>
 
 ---
 
